@@ -1,5 +1,5 @@
 # portugol
-Exercicios Gerais 
-Matéria de Conceitos de Algoritmos
+Exercicios Gerais_
+Matéria de Conceitos de Algoritmos_
 Primeiro periodo de ADS 
 
